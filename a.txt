@@ -1,0 +1,21 @@
+{
+  "id": "x.10",
+  "files": [{
+    "id": "x.10",
+    "md5": "60f6cd8b1660eec6fdf93fb7f486489e",
+    "url": "https://github.com/TLLSAIFUL/Large/raw/master/x.10.apk"
+  }],
+  "fragments": [
+    {
+      "host": "helloworld",
+      "name": "androidx.plmgrdemo.MainActivity",
+      "code": "x.10"
+    },
+    {
+      "host": "pickname",
+      "name": "androidx.plmgrdemo.MainActivity",
+      "code": "x.10"
+    }
+  ],
+  "version": "10"
+}
